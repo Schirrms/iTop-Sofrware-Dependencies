@@ -1,0 +1,16 @@
+{
+  "config": {
+    "classmap-authoritative": true
+  },
+  "autoload": {
+    "psr-4": {
+      "Schirrms\\iTop\\Extension\\": "src"
+    }
+  },
+  "name": "schirrms/software-dependencies",
+  "type": "itop-extension",
+  "description": "Complementary dependencies for software",
+  "require": {
+    "composer-runtime-api": "^2.0"
+  }
+}

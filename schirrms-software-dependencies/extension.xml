@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension format="1.0">
+  <extension_code>schirrms-software-dependencies</extension_code>
+  <version>0.0.1</version>
+  <label><![CDATA[Complementary dependencies for software]]></label>
+  <description><![CDATA[Add the possibility to setup dependencies for software on any FunctionalCI. The primary goal is to show if a software depends on another software.]]></description>
+  <mandatory>false</mandatory>
+  <more_info_url>https://github.com/Schirrms/iTop-Software-Dependencies</more_info_url>
+</extension>
