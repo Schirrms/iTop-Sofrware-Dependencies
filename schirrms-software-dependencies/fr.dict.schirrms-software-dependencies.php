@@ -8,8 +8,7 @@
 
  Dict::Add('FR FR', 'French', 'Français', array(
 	// Dictionary entries go here
-	'Class::FunctionalCI/Attribute:softwareinstance_id' => 'Logiciel(s) dépendant(s)',
-	'Class::FunctionalCI/Attribute:softwareinstance_name' => 'Logiciel(s) dépendant(s)',
+	'Class:FunctionalCI/Attribute:softwareinstance_list' => 'Logiciel(s) dépendant(s)',
 	'Class:SoftwareInstance/Attribute:ci_depends_list' => 'Éléments(s) nécessaire(s)',
   'Class:SoftwareInstance/Attribute:ci_depends_list+' => 'Cet(s) CI(s) est(sont) nécessaires pour que le logiciel puisse fonctionner',
   'Class:SoftwareInstance/Attribute:secondary_redundancy' => 'Mode  de redondance (normallement désactivé, car \'indispensable\')',

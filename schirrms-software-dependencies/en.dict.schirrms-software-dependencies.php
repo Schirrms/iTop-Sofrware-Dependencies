@@ -8,8 +8,7 @@
 
 Dict::Add('EN US', 'English', 'English', array(
 	// Dictionary entries go here
-	'Class::FunctionalCI/Attribute:softwareinstance_id' => 'Software depending on me',
-	'Class::FunctionalCI/Attribute:softwareinstance_name' => 'Software depending on me name',
+	'Class:FunctionalCI/Attribute:softwareinstance_list' => 'Software depending on me',
 	'Class:SoftwareInstance/Attribute:ci_depends_list' => 'Needed item(s)',
   'Class:SoftwareInstance/Attribute:ci_depends_list+' => 'This item is mandatory for operation',
   'Class:SoftwareInstance/Attribute:secondary_redundancy' => 'Redundancy mode (normally set at 1, as \'really needed\')',
